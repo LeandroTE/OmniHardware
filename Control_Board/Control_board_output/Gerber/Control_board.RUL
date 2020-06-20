@@ -1,0 +1,8 @@
+DRC Rules Export File for PCB: C:\Users\leand\Documents\Altium\Projects\Diversos\Primitus_Omni\smartplug_comm_board-hermes\Control_board.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Width|RuleName=Width_DC_Power|Scope=Board|Minimum=9.84
+RuleKind=Width|RuleName=Width_AC_Power|Scope=Board|Minimum=19.69
+RuleKind=Width|RuleName=Width_Antenna|Scope=Board|Minimum=11.81

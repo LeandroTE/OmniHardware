@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=RSTM Pin=JRSTM-2
+Removed Pin From Net: NetName=TESTM Pin=JTESTM-2
+Removed Member From Class: ClassName=Control_board Member=JRSTM
+Removed Member From Class: ClassName=Control_board Member=JTESTM

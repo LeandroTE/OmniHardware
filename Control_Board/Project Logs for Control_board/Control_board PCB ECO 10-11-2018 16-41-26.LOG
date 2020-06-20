@@ -1,0 +1,13 @@
+Added Component: Designator=J2(61300711121)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = "61300711121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "07p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=Lidar_RX Pin=J2-2
+Added Pin To Net: NetName=Lidar_TX Pin=J2-3
+Added Pin To Net: NetName=+5V Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=PWM_Motor Pin=J2-6
+Added Pin To Net: NetName=+5V Pin=J2-7
+Added Member To Class: ClassName=Control_board Member=Component J2 07p

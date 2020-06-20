@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: C:\Users\leand\Documents\Altium\Projects\Diversos\Primitus_Omni\Placa drive motor\H_Bridge\H_Bridge.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_RF|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.94
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_Vias|Scope=Board|Minimum=-393.70
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

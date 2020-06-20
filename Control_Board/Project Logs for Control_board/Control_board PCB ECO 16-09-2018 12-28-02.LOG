@@ -1,0 +1,31 @@
+Added Component: Designator=J3(61301021121)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = "61301021121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=GND Pin=J3-6
+Added Pin To Net: NetName=+3V3 Pin=J3-7
+Added Net: Name=+3V3
+Added Pin To Net: NetName=EN1 Pin=J2-7
+Added Pin To Net: NetName=EN1 Pin=J3-9
+Added Net: Name=EN1
+Added Pin To Net: NetName=EN2 Pin=J2-1
+Added Pin To Net: NetName=EN2 Pin=J3-2
+Added Net: Name=EN2
+Added Pin To Net: NetName=EN3 Pin=J2-3
+Added Pin To Net: NetName=EN3 Pin=J3-4
+Added Net: Name=EN3
+Added Pin To Net: NetName=PH1 Pin=J2-8
+Added Pin To Net: NetName=PH1 Pin=J3-10
+Added Net: Name=PH1
+Added Pin To Net: NetName=PH2 Pin=J2-2
+Added Pin To Net: NetName=PH2 Pin=J3-3
+Added Net: Name=PH2
+Added Pin To Net: NetName=PH3 Pin=J2-4
+Added Pin To Net: NetName=PH3 Pin=J3-5
+Added Net: Name=PH3
+Added Pin To Net: NetName=sleep Pin=J2-6
+Added Pin To Net: NetName=sleep Pin=J3-8
+Added Net: Name=sleep
+Added Member To Class: ClassName=Control_board Member=Component J3 10p

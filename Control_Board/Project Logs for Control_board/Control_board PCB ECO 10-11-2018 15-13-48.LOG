@@ -1,0 +1,79 @@
+Removed Pin From Net: NetName=GND Pin=ANT1-1
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=+3.3V Pin=C4-1
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=+3.3V Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=DEV_UART0-1
+Removed Pin From Net: NetName=ESP_UART0_TX Pin=DEV_UART0-2
+Removed Pin From Net: NetName=ESP_UART0_RX Pin=DEV_UART0-3
+Removed Pin From Net: NetName=+3.3V Pin=DEV_UART0-4
+Removed Pin From Net: NetName=GND Pin=JTAG+RES-6
+Removed Pin From Net: NetName=+3.3V Pin=JTAG+RES-7
+Removed Pin From Net: NetName=Res_ESP_3 Pin=JTAG+RES-8
+Removed Pin From Net: NetName=Res_ESP_4 Pin=JTAG+RES-9
+Removed Pin From Net: NetName=+5V Pin=JTAG+RES-10
+Removed Pin From Net: NetName=GND Pin=R3-2
+Removed Pin From Net: NetName=+3.3V Pin=R4-2
+Removed Pin From Net: NetName=+3.3V Pin=U1-1
+Removed Pin From Net: NetName=+3.3V Pin=U1-3
+Removed Pin From Net: NetName=+3.3V Pin=U1-4
+Removed Pin From Net: NetName=ESP_UART2_TX Pin=U1-14
+Removed Pin From Net: NetName=ESP_UART2_RX Pin=U1-15
+Removed Pin From Net: NetName=Res_ESP_3 Pin=U1-16
+Removed Pin From Net: NetName=+3.3V Pin=U1-19
+Removed Pin From Net: NetName=MSP_UART0_BSL_TX Pin=U1-28
+Removed Pin From Net: NetName=MSP_UART0_BSL_RX Pin=U1-29
+Removed Pin From Net: NetName=Res_ESP_4 Pin=U1-34
+Removed Pin From Net: NetName=R_RESET/Res_ESP_2 Pin=U1-35
+Removed Pin From Net: NetName=R_SET/Res_ESP_1 Pin=U1-36
+Removed Pin From Net: NetName=+3.3V Pin=U1-37
+Removed Pin From Net: NetName=ESP_UART0_RX Pin=U1-40
+Removed Pin From Net: NetName=ESP_UART0_TX Pin=U1-41
+Removed Pin From Net: NetName=+3.3V Pin=U1-43
+Removed Pin From Net: NetName=+3.3V Pin=U1-46
+Removed Pin From Net: NetName=GND Pin=U1-49
+Removed Member From Class: ClassName=Control_board Member=ANT1
+Removed Member From Class: ClassName=Control_board Member=C1
+Removed Member From Class: ClassName=Control_board Member=C2
+Removed Member From Class: ClassName=Control_board Member=C3
+Removed Member From Class: ClassName=Control_board Member=C4
+Removed Member From Class: ClassName=Control_board Member=C5
+Removed Member From Class: ClassName=Control_board Member=C6
+Removed Member From Class: ClassName=Control_board Member=DEV_UART0
+Removed Member From Class: ClassName=Control_board Member=JTAG+RES
+Removed Member From Class: ClassName=Control_board Member=R1
+Removed Member From Class: ClassName=Control_board Member=R2
+Removed Member From Class: ClassName=Control_board Member=R3
+Removed Member From Class: ClassName=Control_board Member=R4
+Removed Member From Class: ClassName=Control_board Member=T1
+Removed Member From Class: ClassName=Control_board Member=T2
+Removed Member From Class: ClassName=Control_board Member=U1
+Added Component: Designator=COMM(Two Row Socket 1.27, 16p, Vert)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = "20021311-00016T4LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Amphenol FCI"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ESP_UART2_RX Pin=COMM-1
+Added Pin To Net: NetName=MSP_UART0_BSL_TX Pin=COMM-2
+Added Pin To Net: NetName=ESP_UART2_TX Pin=COMM-3
+Added Pin To Net: NetName=MSP_UART0_BSL_RX Pin=COMM-4
+Added Pin To Net: NetName=+5V Pin=COMM-5
+Added Pin To Net: NetName=+3.3V Pin=COMM-6
+Added Pin To Net: NetName=R_SET/Res_ESP_1 Pin=COMM-7
+Added Pin To Net: NetName=R_RESET/Res_ESP_2 Pin=COMM-9
+Added Pin To Net: NetName=Res_ESP_4 Pin=COMM-11
+Added Pin To Net: NetName=GND Pin=COMM-12
+Added Pin To Net: NetName=ESP_UART0_RX Pin=COMM-13
+Added Pin To Net: NetName=ESP_UART0_TX Pin=COMM-15
+Added Pin To Net: NetName=Res_ESP_3 Pin=COMM-16
+Added Pin To Net: NetName=NetCOMM_8 Pin=COMM-8
+Added Net: Name=NetCOMM_8
+Added Pin To Net: NetName=NetCOMM_10 Pin=COMM-10
+Added Net: Name=NetCOMM_10
+Added Pin To Net: NetName=Res_MSP_1 Pin=COMM-14
+Added Net: Name=Res_MSP_1
+Added Member To Class: ClassName=Control_board Member=Component COMM FEMALE_HEADER_1.27MM_16P_2x8
+Added Room: Name=Control_board

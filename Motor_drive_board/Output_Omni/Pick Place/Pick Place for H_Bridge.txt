@@ -1,0 +1,27 @@
+Altium Designer Pick and Place Locations
+C:\Users\leand\Documents\Altium\Projects\Diversos\Primitus_Omni\Placa drive motor\H_Bridge\Output_Omni\Pick Place\Pick Place for H_Bridge.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       16/09/18
+Time:       12:25
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment     Layer    Footprint           Center-X(mil) Center-Y(mil) Rotation Description                                                 
+C1         C-EUC0603   TopLayer C0603               -108.265      1407.482      270      ""                                                          
+C2         C-EUC0603   TopLayer C0603               68.900        1338.585      270      ""                                                          
+C3         C-EUC0603   TopLayer C0603               -78.737       1023.624      270      ""                                                          
+C4         C-EUC0603   TopLayer C0603               68.900        944.884       270      ""                                                          
+C5         C-EUC0603   TopLayer C0603               -88.580       620.081       270      ""                                                          
+C6         C-EUC0603   TopLayer C0603               68.900        561.025       270      ""                                                          
+J1         03p         TopLayer 61300311121         915.354       125.118       60       "WR-PHD 2.54 mm THT Pin Header, 03p"                        
+J2         10p         TopLayer 61301021121         884.691       2055.118      120      "WR-PHD 2.54 mm THT Dual Pin Header, 10p"                   
+JP1        CONECT_BAT  TopLayer CONECT_BAT_PCK      688.976       1486.220      270      ""                                                          
+JP2        CONECT_BAT  TopLayer CONECT_BAT_PCK      688.976       1092.520      270      ""                                                          
+JP3        CONECT_BAT  TopLayer CONECT_BAT_PCK      688.976       698.819       270      ""                                                          
+U1         DRV8838DSGT TopLayer SON50P200X200X80-9N 39.370        1496.063      180      "1.8A Low Voltage Brushed DC Motor Driver 8-WSON -40 to 85" 
+U2         DRV8838DSGT TopLayer SON50P200X200X80-9N 39.370        1102.362      180      "1.8A Low Voltage Brushed DC Motor Driver 8-WSON -40 to 85" 
+U3         DRV8838DSGT TopLayer SON50P200X200X80-9N 39.370        708.661       180      "1.8A Low Voltage Brushed DC Motor Driver 8-WSON -40 to 85" 
