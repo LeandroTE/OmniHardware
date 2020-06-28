@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=PH2 Pin=COMM-9
-Removed Pin From Net: NetName=EN3 Pin=COMM-14
-Added Pin To Net: NetName=EN3 Pin=COMM-9
-Added Pin To Net: NetName=PH2 Pin=COMM-14

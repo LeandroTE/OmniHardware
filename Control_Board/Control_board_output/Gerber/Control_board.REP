@@ -2,10 +2,79 @@
 FileName = Control_board.GBR
 AutoAperture = True
 *************************************************************
-Generating : Keep-Out Layer
-      File : Control_board.GKO
+Generating : Bottom Layer
+      File : Control_board.GBL
 
-    Adding Layer      : Keep-Out Layer
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Outline
+      File : Control_board.GM1
+
+    Adding Layer      : Outline
+
+
+Used DCodes :
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Control_board.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Control_board.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Control_board.GBO
+
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
@@ -30,7 +99,38 @@ Used DCodes :
     D17
     D18
     D19
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Control_board.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
     D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Control_board.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -48,27 +148,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Outline
-      File : Control_board.GM1
-
-    Adding Layer      : Outline
-
-
-Used DCodes :
-    D31
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : Control_board.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
 Generating : Top Overlay
       File : Control_board.GTO
 
@@ -79,85 +158,5 @@ Used DCodes :
     D10
     D11
     D12
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : Control_board.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : Control_board.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : Control_board.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : Control_board.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
 *************************************************************
 

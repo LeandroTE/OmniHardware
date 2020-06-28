@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\leand\Documents\Altium\Projects\Diversos\Primitus_Omni\smartplug_comm_board-hermes\Control_board.PcbDoc
+DRC Rules Export File for PCB: C:\Users\leand\OneDrive\Documentos\Altium\OmniHardware\Control_Board\Control_board.PcbDoc
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=9.84
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87

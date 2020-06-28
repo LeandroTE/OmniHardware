@@ -1,17 +1,17 @@
 Altium Designer Pick and Place Locations
-C:\Users\leand\Documents\Altium\Projects\Diversos\Primitus_Omni\smartplug_comm_board-hermes\Control_board_output\Pick Place\Pick Place for Control_board.csv
+C:\Users\leand\OneDrive\Documentos\Altium\OmniHardware\Control_Board\Control_board_output\Pick Place\Pick Place for Control_board.csv
 
 ========================================================================================================================
 File Design Information:
 
-Date:       04/12/18
-Time:       13:22
-Revision:   Not in VersionControl
+Date:       27/06/20
+Time:       20:45
+Revision:   05f6ee21e86e8c2fd55d642b14d3c8e5a96c8e2a
 Variant:    No variations
 Units used: mm
 
 "Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"U1","TTGO T-display","TopLayer","ESP32-TTGO-TDISPLAY","-0.5700","3.4400","360",""
 "J2","07p","TopLayer","61300711121","-18.0000","-11.3564","270","WR-PHD 2.54 mm THT Pin Header, 07p"
 "J1","10p","TopLayer","61301021121","-28.6000","-25.5347","300","WR-PHD 2.54 mm THT Dual Pin Header, 10p"
-"COMM","FEMALE_HEADER_1.27MM_16P_2x8","TopLayer","Two_Row_Socket_1.27,_16p,_Vert","-5.3460","0.7193","270","1.27mm THT Straight Two Row Socket Header, 16p"
 "J3","10p","TopLayer","61301021121","-28.6000","24.6653","60","WR-PHD 2.54 mm THT Dual Pin Header, 10p"

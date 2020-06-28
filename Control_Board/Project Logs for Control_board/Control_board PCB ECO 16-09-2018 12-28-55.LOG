@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=EN2 Pin=J2-1
-Removed Pin From Net: NetName=PH2 Pin=J2-2
-Removed Pin From Net: NetName=EN3 Pin=J2-3
-Removed Pin From Net: NetName=PH3 Pin=J2-4
-Removed Pin From Net: NetName=GND Pin=J2-5
-Removed Pin From Net: NetName=sleep Pin=J2-6
-Removed Pin From Net: NetName=EN1 Pin=J2-7
-Removed Pin From Net: NetName=PH1 Pin=J2-8
-Removed Member From Class: ClassName=Control_board Member=J2

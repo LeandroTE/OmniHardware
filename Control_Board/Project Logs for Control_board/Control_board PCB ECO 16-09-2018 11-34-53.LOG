@@ -1,6 +1,0 @@
-Added Component: Designator=J2(61300821121)
-Add component. Clean all parameters for all variants
-Add component (AddParameter): Name = "Part Number"; Value = "61300821121"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Value"; Value = "08p"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Vendor"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
-Added Member To Class: ClassName=Control_board Member=Component J2 08p
